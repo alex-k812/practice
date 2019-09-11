@@ -1,4 +1,2 @@
 text info for new file
-Second line for new edit of this file
-LINE 03 for checking
 Chetvjortaya stroka dobalena
